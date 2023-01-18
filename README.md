@@ -1,1 +1,1 @@
-
+Used the tools I have learned so far, from "Meta Android Developer Professional Certificate" course through Coursera. The app functions as a simple way to calculate the tip for a bill based off the total and a percentage of the users choice. Simple yet functional, the intuitive app helped me understand what it takes to build a Basic Compose Activity. 
